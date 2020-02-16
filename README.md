@@ -4,6 +4,8 @@ A basic calculator app.
 
 Here's the JAVA logic behind this : 
 
+```
+
 package com.sidchiku9.calctrytwo;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -85,3 +87,5 @@ public class MainActivity extends AppCompatActivity {
         t1.setText(t1.getText() + ".");
     }
 }
+
+```
